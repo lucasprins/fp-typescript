@@ -1,0 +1,12 @@
+{
+  "name": "fp-typescript",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "tsup ./src --watch"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.11",
+    "tsup": "^8.2.0",
+    "typescript": "^5.5.3"
+  }
+}
